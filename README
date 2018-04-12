@@ -1,0 +1,2 @@
+An ROS package that contains two simple rospy nodes. The "talker" node broadcasts a message while the "listener" node will 
+receive and print that message simultaneously and in real time.
